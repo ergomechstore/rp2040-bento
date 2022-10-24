@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "rp2040_bento")(type "Legacy")(uri "${KIPRJMOD}/rp2040_bento-rescue.lib")(options "Legacy pwr_sym_only")(descr " pwr_sym_only"))
+  (lib (name "power")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/power.lib")(options " pwr_sym_only")(descr "")(disabled))
+  (lib (name "Device")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Device.lib")(options " pwr_sym_only")(descr "")(disabled))
+  (lib (name "Connector_Generic")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Connector_Generic.lib")(options " pwr_sym_only")(descr "")(disabled))
+  (lib (name "MCU_Microchip_ATmega")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/MCU_Microchip_ATmega.lib")(options " pwr_sym_only")(descr "")(disabled))
+  (lib (name "Power_Protection")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Power_Protection.lib")(options " pwr_sym_only")(descr "")(disabled))
+  (lib (name "Switch")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Switch.lib")(options " pwr_sym_only")(descr "")(disabled))
+  (lib (name "Connector")(type "Legacy")(uri "${KICAD_SYMBOL_DIR}/Connector.lib")(options " pwr_sym_only")(descr "")(disabled))
+)
