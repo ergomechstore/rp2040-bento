@@ -7,7 +7,8 @@ The board doesn't have onboard USB port so the USB port should be designed into 
 The Fabrication files are available, these files has been tested with jlcpcb service with greate success.
 
 ![Breakout board](./pictures/bento.png)
-
 ![Bento board](./pictures/bento2.png)
+![Bento board](./pictures/pinout.png)
+![Bento board](./pictures/picture.jpg)
 
 This is still in development, though initial testing has been done, the design is still not in its final shape, please consider carefully before ordering from JLCPCB. You might need to do some debugging if problems arise.
